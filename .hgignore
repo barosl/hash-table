@@ -1,0 +1,2 @@
+\.(o|pyc)$
+hash-table-[disk|mem]
