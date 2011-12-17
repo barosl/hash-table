@@ -1,0 +1,4 @@
+*.o
+*.pyc
+hash-table-disk
+hash-table-mem
